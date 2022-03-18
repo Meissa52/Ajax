@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<Images>
+	<image>
+		<imageTitle>images/Messi.jpg</imageTitle>
+		<alt>Messi</alt>
+	</image>
+	<image>
+		<imageTitle>images/neymar.jpg</imageTitle>
+		<alt>Neymar</alt>
+	</image>
+	<image>
+		<imageTitle>images/mane.jpg</imageTitle>
+		<alt>Mane</alt>
+	</image>
+	<image>
+		<imageTitle>images/Ronaldo.jpg</imageTitle>
+		<alt>Ronaldo</alt>
+	</image>
+	<image>
+		<imageTitle>images/pogba.jpg</imageTitle>
+		<alt>Pogba</alt>
+	</image>
+	<image>
+		<imageTitle>images/salah.jpg</imageTitle>
+		<alt>Salah</alt>
+	</image>
+	<image>
+		<imageTitle>images/zalatan.jpg</imageTitle>
+		<alt>Zalatan</alt>
+	</image>
+</Images>
